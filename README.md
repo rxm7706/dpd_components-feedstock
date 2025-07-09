@@ -31,7 +31,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-dpd_components-green.svg)](https://anaconda.org/conda-forge/dpd_components) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/dpd_components.svg)](https://anaconda.org/conda-forge/dpd_components) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/dpd_components.svg)](https://anaconda.org/conda-forge/dpd_components) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/dpd_components.svg)](https://anaconda.org/conda-forge/dpd_components) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-dpd__components-green.svg)](https://anaconda.org/conda-forge/dpd_components) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/dpd_components.svg)](https://anaconda.org/conda-forge/dpd_components) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/dpd_components.svg)](https://anaconda.org/conda-forge/dpd_components) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/dpd_components.svg)](https://anaconda.org/conda-forge/dpd_components) |
 
 Installing dpd_components
 =========================
